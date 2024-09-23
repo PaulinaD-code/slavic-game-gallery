@@ -2,7 +2,7 @@ let caracterVariety = [
   {
     id: '01',
     name: 'Istoty smokopodobne',
-    image: 'img/zmij9.jpg',
+    image: 'zmij.jpg',
     description:'mityczne i fikcyjne stworzenie najczęściej wyobrażane w postaci olbrzymiego i lotnego gada obdarzonego zdolnością ziania ogniem. ',
      connect: '../description/personsDes.html'
   },
