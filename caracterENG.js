@@ -2,7 +2,7 @@ let caracterVariety = [
     {
       id: '01',
       name: 'Dragon-like creatures',
-      image: 'img/zmij9.jpg',
+      image: 'zmij.jpg',
       description:'a mythical and fictional creature most often imagined in the form of a huge and volatile reptile endowed with the ability to breathe fire. ',
        connect: '../description/personsDes.html'
     },
